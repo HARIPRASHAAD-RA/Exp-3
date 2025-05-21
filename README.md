@@ -16,24 +16,41 @@
 NAME : HARIPRASHAAD RA
 REG.NO : 212223040060
 ```
-### Usecase diagram :
-![UseCaseDiagram1](https://github.com/user-attachments/assets/87e889dc-fad7-4897-926c-860a7cdafc78)
+# Activity Diagram:
 
-### Class diagram :
-![ClassDiagram1](https://github.com/user-attachments/assets/98255e37-0329-4401-aad5-13dc68c857d9)
+![Screenshot 2025-05-13 170513](https://github.com/user-attachments/assets/ecf2ee04-0267-4a1f-8986-e1e0c1b375d1)
 
-### Sequence diagram :
-![SequenceDiagram1](https://github.com/user-attachments/assets/ba6667d5-7c5d-49cf-aef6-1e74d77360c0)
 
-### Communication diagram :
-![CommunicationDiagram1](https://github.com/user-attachments/assets/d9cce467-167b-41c4-9e7e-f87ac8ffca62)
 
-### Activity diagram: 
-![ActivityDiagram1](https://github.com/user-attachments/assets/feeb5cb2-9371-4961-b8e9-652c61675152)
+# Class Diagram
 
-### Package diagram :
-![PackageDiagram1](https://github.com/user-attachments/assets/75efc85b-9417-482d-a5c5-5485eecd3a4f)
 
+![Screenshot 2025-05-13 164532](https://github.com/user-attachments/assets/96a7ae52-ba17-4eea-bc8b-19ce8d99a955)
+
+
+
+
+# Communication Diagram
+
+
+![Screenshot 2025-05-13 171154](https://github.com/user-attachments/assets/518ffeb5-cd3d-47e9-b4c3-06cc4f8aba36)
+
+
+
+# Package Diagram
+
+![image](https://github.com/user-attachments/assets/f99f2589-bb26-4d56-b055-25966d075d83)
+
+
+
+# Sequence Diagram
+
+![Screenshot 2025-05-13 171829](https://github.com/user-attachments/assets/9f5eab4c-5a79-4fa7-8e11-40d1bb8b5982)
+
+
+# Use Case Diagram
+
+![image](https://github.com/user-attachments/assets/180f8635-8222-40dc-b91e-efa58de3d40d)
 
 ## RESULT :
  Thus the project to develop e-ticketing system was developed using Star UML Software
